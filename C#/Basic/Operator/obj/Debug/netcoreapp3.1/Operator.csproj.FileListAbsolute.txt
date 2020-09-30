@@ -1,0 +1,12 @@
+C:\Users\rathod\source\repos\Lab\C#\Basic\Operator\bin\Debug\netcoreapp3.1\Operator.exe
+C:\Users\rathod\source\repos\Lab\C#\Basic\Operator\bin\Debug\netcoreapp3.1\Operator.deps.json
+C:\Users\rathod\source\repos\Lab\C#\Basic\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.json
+C:\Users\rathod\source\repos\Lab\C#\Basic\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.dev.json
+C:\Users\rathod\source\repos\Lab\C#\Basic\Operator\bin\Debug\netcoreapp3.1\Operator.dll
+C:\Users\rathod\source\repos\Lab\C#\Basic\Operator\bin\Debug\netcoreapp3.1\Operator.pdb
+C:\Users\rathod\source\repos\Lab\C#\Basic\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfoInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Basic\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfo.cs
+C:\Users\rathod\source\repos\Lab\C#\Basic\Operator\obj\Debug\netcoreapp3.1\Operator.csproj.CoreCompileInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Basic\Operator\obj\Debug\netcoreapp3.1\Operator.dll
+C:\Users\rathod\source\repos\Lab\C#\Basic\Operator\obj\Debug\netcoreapp3.1\Operator.pdb
+C:\Users\rathod\source\repos\Lab\C#\Basic\Operator\obj\Debug\netcoreapp3.1\Operator.genruntimeconfig.cache

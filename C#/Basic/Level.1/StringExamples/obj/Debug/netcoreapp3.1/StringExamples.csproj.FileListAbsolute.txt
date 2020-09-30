@@ -1,0 +1,12 @@
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\StringExamples\bin\Debug\netcoreapp3.1\StringExamples.exe
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\StringExamples\bin\Debug\netcoreapp3.1\StringExamples.deps.json
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\StringExamples\bin\Debug\netcoreapp3.1\StringExamples.runtimeconfig.json
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\StringExamples\bin\Debug\netcoreapp3.1\StringExamples.runtimeconfig.dev.json
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\StringExamples\bin\Debug\netcoreapp3.1\StringExamples.dll
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\StringExamples\bin\Debug\netcoreapp3.1\StringExamples.pdb
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.AssemblyInfoInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.AssemblyInfo.cs
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.csproj.CoreCompileInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.dll
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.pdb
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\StringExamples\obj\Debug\netcoreapp3.1\StringExamples.genruntimeconfig.cache

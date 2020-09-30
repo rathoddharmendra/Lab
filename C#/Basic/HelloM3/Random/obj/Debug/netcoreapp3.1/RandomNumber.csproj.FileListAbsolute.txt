@@ -1,0 +1,12 @@
+C:\Users\rathod\Code\C#\HelloM3\Random\bin\Debug\netcoreapp3.1\RandomNumber.exe
+C:\Users\rathod\Code\C#\HelloM3\Random\bin\Debug\netcoreapp3.1\RandomNumber.deps.json
+C:\Users\rathod\Code\C#\HelloM3\Random\bin\Debug\netcoreapp3.1\RandomNumber.runtimeconfig.json
+C:\Users\rathod\Code\C#\HelloM3\Random\bin\Debug\netcoreapp3.1\RandomNumber.runtimeconfig.dev.json
+C:\Users\rathod\Code\C#\HelloM3\Random\bin\Debug\netcoreapp3.1\RandomNumber.dll
+C:\Users\rathod\Code\C#\HelloM3\Random\bin\Debug\netcoreapp3.1\RandomNumber.pdb
+C:\Users\rathod\Code\C#\HelloM3\Random\obj\Debug\netcoreapp3.1\RandomNumber.AssemblyInfoInputs.cache
+C:\Users\rathod\Code\C#\HelloM3\Random\obj\Debug\netcoreapp3.1\RandomNumber.AssemblyInfo.cs
+C:\Users\rathod\Code\C#\HelloM3\Random\obj\Debug\netcoreapp3.1\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\rathod\Code\C#\HelloM3\Random\obj\Debug\netcoreapp3.1\RandomNumber.dll
+C:\Users\rathod\Code\C#\HelloM3\Random\obj\Debug\netcoreapp3.1\RandomNumber.pdb
+C:\Users\rathod\Code\C#\HelloM3\Random\obj\Debug\netcoreapp3.1\RandomNumber.genruntimeconfig.cache

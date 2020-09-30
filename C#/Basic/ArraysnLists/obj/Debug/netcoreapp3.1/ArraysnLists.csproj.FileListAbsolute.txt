@@ -1,0 +1,13 @@
+C:\Users\rathod\Code\C#\ArraysnLists\bin\Debug\netcoreapp3.1\ArraysnLists.exe
+C:\Users\rathod\Code\C#\ArraysnLists\bin\Debug\netcoreapp3.1\ArraysnLists.deps.json
+C:\Users\rathod\Code\C#\ArraysnLists\bin\Debug\netcoreapp3.1\ArraysnLists.runtimeconfig.json
+C:\Users\rathod\Code\C#\ArraysnLists\bin\Debug\netcoreapp3.1\ArraysnLists.runtimeconfig.dev.json
+C:\Users\rathod\Code\C#\ArraysnLists\bin\Debug\netcoreapp3.1\ArraysnLists.dll
+C:\Users\rathod\Code\C#\ArraysnLists\bin\Debug\netcoreapp3.1\ArraysnLists.pdb
+C:\Users\rathod\Code\C#\ArraysnLists\obj\Debug\netcoreapp3.1\ArraysnLists.csprojAssemblyReference.cache
+C:\Users\rathod\Code\C#\ArraysnLists\obj\Debug\netcoreapp3.1\ArraysnLists.AssemblyInfoInputs.cache
+C:\Users\rathod\Code\C#\ArraysnLists\obj\Debug\netcoreapp3.1\ArraysnLists.AssemblyInfo.cs
+C:\Users\rathod\Code\C#\ArraysnLists\obj\Debug\netcoreapp3.1\ArraysnLists.csproj.CoreCompileInputs.cache
+C:\Users\rathod\Code\C#\ArraysnLists\obj\Debug\netcoreapp3.1\ArraysnLists.dll
+C:\Users\rathod\Code\C#\ArraysnLists\obj\Debug\netcoreapp3.1\ArraysnLists.pdb
+C:\Users\rathod\Code\C#\ArraysnLists\obj\Debug\netcoreapp3.1\ArraysnLists.genruntimeconfig.cache

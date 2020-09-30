@@ -1,0 +1,87 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HelloM3/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/HelloM3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HelloM3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloM3/1.0.0": {
+      "type": "project",
+      "path": "../HelloM3/HelloM3.csproj",
+      "msbuildProject": "../HelloM3/HelloM3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "HelloM3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rathod\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rathod\\source\\repos\\Lab\\C#\\Basic\\CSharpFundamentals\\CSharpFundamentals.csproj",
+      "projectName": "CSharpFundamentals",
+      "projectPath": "C:\\Users\\rathod\\source\\repos\\Lab\\C#\\Basic\\CSharpFundamentals\\CSharpFundamentals.csproj",
+      "packagesPath": "C:\\Users\\rathod\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rathod\\source\\repos\\Lab\\C#\\Basic\\CSharpFundamentals\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rathod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\rathod\\source\\repos\\Lab\\C#\\Basic\\HelloM3\\HelloM3.csproj": {
+              "projectPath": "C:\\Users\\rathod\\source\\repos\\Lab\\C#\\Basic\\HelloM3\\HelloM3.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\rathod\Code\C#\Generic\bin\Debug\netcoreapp3.1\Generic.exe
+C:\Users\rathod\Code\C#\Generic\bin\Debug\netcoreapp3.1\Generic.deps.json
+C:\Users\rathod\Code\C#\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.json
+C:\Users\rathod\Code\C#\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.dev.json
+C:\Users\rathod\Code\C#\Generic\bin\Debug\netcoreapp3.1\Generic.dll
+C:\Users\rathod\Code\C#\Generic\bin\Debug\netcoreapp3.1\Generic.pdb
+C:\Users\rathod\Code\C#\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfoInputs.cache
+C:\Users\rathod\Code\C#\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfo.cs
+C:\Users\rathod\Code\C#\Generic\obj\Debug\netcoreapp3.1\Generic.csproj.CoreCompileInputs.cache
+C:\Users\rathod\Code\C#\Generic\obj\Debug\netcoreapp3.1\Generic.dll
+C:\Users\rathod\Code\C#\Generic\obj\Debug\netcoreapp3.1\Generic.pdb
+C:\Users\rathod\Code\C#\Generic\obj\Debug\netcoreapp3.1\Generic.genruntimeconfig.cache

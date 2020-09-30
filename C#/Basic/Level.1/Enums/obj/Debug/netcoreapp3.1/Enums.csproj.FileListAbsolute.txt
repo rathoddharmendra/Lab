@@ -1,0 +1,12 @@
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache

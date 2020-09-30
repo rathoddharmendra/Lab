@@ -1,0 +1,13 @@
+C:\Users\rathod\Code\C#\Intermediate\methods\bin\Debug\netcoreapp3.1\methods.exe
+C:\Users\rathod\Code\C#\Intermediate\methods\bin\Debug\netcoreapp3.1\methods.deps.json
+C:\Users\rathod\Code\C#\Intermediate\methods\bin\Debug\netcoreapp3.1\methods.runtimeconfig.json
+C:\Users\rathod\Code\C#\Intermediate\methods\bin\Debug\netcoreapp3.1\methods.runtimeconfig.dev.json
+C:\Users\rathod\Code\C#\Intermediate\methods\bin\Debug\netcoreapp3.1\methods.dll
+C:\Users\rathod\Code\C#\Intermediate\methods\bin\Debug\netcoreapp3.1\methods.pdb
+C:\Users\rathod\Code\C#\Intermediate\methods\obj\Debug\netcoreapp3.1\methods.csprojAssemblyReference.cache
+C:\Users\rathod\Code\C#\Intermediate\methods\obj\Debug\netcoreapp3.1\methods.AssemblyInfoInputs.cache
+C:\Users\rathod\Code\C#\Intermediate\methods\obj\Debug\netcoreapp3.1\methods.AssemblyInfo.cs
+C:\Users\rathod\Code\C#\Intermediate\methods\obj\Debug\netcoreapp3.1\methods.csproj.CoreCompileInputs.cache
+C:\Users\rathod\Code\C#\Intermediate\methods\obj\Debug\netcoreapp3.1\methods.dll
+C:\Users\rathod\Code\C#\Intermediate\methods\obj\Debug\netcoreapp3.1\methods.pdb
+C:\Users\rathod\Code\C#\Intermediate\methods\obj\Debug\netcoreapp3.1\methods.genruntimeconfig.cache

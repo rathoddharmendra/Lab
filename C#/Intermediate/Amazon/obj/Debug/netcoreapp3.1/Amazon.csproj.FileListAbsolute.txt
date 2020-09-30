@@ -1,0 +1,9 @@
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Amazon\bin\Debug\netcoreapp3.1\Amazon.deps.json
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Amazon\bin\Debug\netcoreapp3.1\Amazon.dll
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Amazon\bin\Debug\netcoreapp3.1\Amazon.pdb
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Amazon\obj\Debug\netcoreapp3.1\Amazon.csprojAssemblyReference.cache
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Amazon\obj\Debug\netcoreapp3.1\Amazon.AssemblyInfoInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Amazon\obj\Debug\netcoreapp3.1\Amazon.AssemblyInfo.cs
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Amazon\obj\Debug\netcoreapp3.1\Amazon.csproj.CoreCompileInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Amazon\obj\Debug\netcoreapp3.1\Amazon.dll
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\Amazon\obj\Debug\netcoreapp3.1\Amazon.pdb

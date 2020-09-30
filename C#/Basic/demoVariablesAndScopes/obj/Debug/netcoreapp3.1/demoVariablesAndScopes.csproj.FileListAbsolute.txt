@@ -1,0 +1,13 @@
+C:\Users\rathod\source\repos\Lab\C#\Basic\demoVariablesAndScopes\obj\Debug\netcoreapp3.1\demoVariablesAndScopes.AssemblyInfoInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Basic\demoVariablesAndScopes\obj\Debug\netcoreapp3.1\demoVariablesAndScopes.AssemblyInfo.cs
+C:\Users\rathod\source\repos\Lab\C#\Basic\demoVariablesAndScopes\obj\Debug\netcoreapp3.1\demoVariablesAndScopes.csproj.CoreCompileInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Basic\demoVariablesAndScopes\bin\Debug\netcoreapp3.1\demoVariablesAndScopes.exe
+C:\Users\rathod\source\repos\Lab\C#\Basic\demoVariablesAndScopes\bin\Debug\netcoreapp3.1\demoVariablesAndScopes.deps.json
+C:\Users\rathod\source\repos\Lab\C#\Basic\demoVariablesAndScopes\bin\Debug\netcoreapp3.1\demoVariablesAndScopes.runtimeconfig.json
+C:\Users\rathod\source\repos\Lab\C#\Basic\demoVariablesAndScopes\bin\Debug\netcoreapp3.1\demoVariablesAndScopes.runtimeconfig.dev.json
+C:\Users\rathod\source\repos\Lab\C#\Basic\demoVariablesAndScopes\bin\Debug\netcoreapp3.1\demoVariablesAndScopes.dll
+C:\Users\rathod\source\repos\Lab\C#\Basic\demoVariablesAndScopes\bin\Debug\netcoreapp3.1\demoVariablesAndScopes.pdb
+C:\Users\rathod\source\repos\Lab\C#\Basic\demoVariablesAndScopes\obj\Debug\netcoreapp3.1\demoVariablesAndScopes.csprojAssemblyReference.cache
+C:\Users\rathod\source\repos\Lab\C#\Basic\demoVariablesAndScopes\obj\Debug\netcoreapp3.1\demoVariablesAndScopes.dll
+C:\Users\rathod\source\repos\Lab\C#\Basic\demoVariablesAndScopes\obj\Debug\netcoreapp3.1\demoVariablesAndScopes.pdb
+C:\Users\rathod\source\repos\Lab\C#\Basic\demoVariablesAndScopes\obj\Debug\netcoreapp3.1\demoVariablesAndScopes.genruntimeconfig.cache

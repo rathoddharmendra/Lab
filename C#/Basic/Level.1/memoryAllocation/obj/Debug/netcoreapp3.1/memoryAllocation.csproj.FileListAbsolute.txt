@@ -1,0 +1,13 @@
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\memoryAllocation\bin\Debug\netcoreapp3.1\memoryAllocation.exe
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\memoryAllocation\bin\Debug\netcoreapp3.1\memoryAllocation.deps.json
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\memoryAllocation\bin\Debug\netcoreapp3.1\memoryAllocation.runtimeconfig.json
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\memoryAllocation\bin\Debug\netcoreapp3.1\memoryAllocation.runtimeconfig.dev.json
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\memoryAllocation\bin\Debug\netcoreapp3.1\memoryAllocation.dll
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\memoryAllocation\bin\Debug\netcoreapp3.1\memoryAllocation.pdb
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\memoryAllocation\obj\Debug\netcoreapp3.1\memoryAllocation.csprojAssemblyReference.cache
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\memoryAllocation\obj\Debug\netcoreapp3.1\memoryAllocation.AssemblyInfoInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\memoryAllocation\obj\Debug\netcoreapp3.1\memoryAllocation.AssemblyInfo.cs
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\memoryAllocation\obj\Debug\netcoreapp3.1\memoryAllocation.csproj.CoreCompileInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\memoryAllocation\obj\Debug\netcoreapp3.1\memoryAllocation.dll
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\memoryAllocation\obj\Debug\netcoreapp3.1\memoryAllocation.pdb
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\memoryAllocation\obj\Debug\netcoreapp3.1\memoryAllocation.genruntimeconfig.cache

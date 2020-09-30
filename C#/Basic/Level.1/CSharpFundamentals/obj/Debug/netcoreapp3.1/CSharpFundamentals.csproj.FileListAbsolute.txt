@@ -1,0 +1,13 @@
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csprojAssemblyReference.cache
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.AssemblyInfo.cs
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.exe
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.deps.json
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.runtimeconfig.json
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.runtimeconfig.dev.json
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.dll
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.pdb
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.dll
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.pdb
+C:\Users\rathod\source\repos\Lab\C#\Intermediate\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.genruntimeconfig.cache
