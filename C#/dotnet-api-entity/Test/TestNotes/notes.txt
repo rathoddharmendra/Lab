@@ -1,0 +1,7 @@
+﻿** DOTNET EF MANAGE COMMANDS **
+$ dotnet ef
+$ dotnet tool uninstall --global dotnet-ef
+$ dotnet tool install --global dotnet-ef --version 5.0.0-rc.1.20451.13
+
+// Add to project after installation OR ADD PACKAGE
+$ dotnet add package Microsoft.EntityFrameworkCore --version 3.1.8
